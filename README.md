@@ -2,15 +2,14 @@
 This code is for the LLMEmbed paper accepted in the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
 *DOI: *
 
-## Paper_Exp.zip
-This code is for the Privacy-Preserving Outsourcing MMC.
+## llama2_embedding / bert_embedding / roberta_embedding
+The rep_extract.py uses language model to extract the representation of dataset and saves the representation as .pt file.
 
-## Paper_Exp_LR.zip
-This code is for the Privacy-Preserving Outsourcing LR.
+## MyDataset
+MyDataset.py reads the representation from .pt file.
 
-## Paper_Exp_PCA.zip
-This code is for the Privacy-Preserving Outsourcing PCA.
-
+## DownstreamModel
+DownstreamModel.py is for the Co-occurence pooling.
 
 ## 📜Citation
 
