@@ -3,13 +3,13 @@ This code is for the LLMEmbed paper accepted in the 62nd Annual Meeting of the A
 *DOI: *
 
 ## llama2_embedding / bert_embedding / roberta_embedding
-The rep_extract.py uses language model to extract the representation of dataset and saves the representation as .pt file.
+The `rep_extract.py` uses language model to extract the representation of dataset and saves the representation as `.pt` file.
 
 ## MyDataset
-MyDataset.py reads the representation from .pt file.
+`MyDataset.py` reads the representation from `.pt` file.
 
 ## DownstreamModel
-DownstreamModel.py is for the Co-occurence pooling.
+`DownstreamModel.py` is for the Co-occurence pooling.
 
 ## 📜Citation
 
