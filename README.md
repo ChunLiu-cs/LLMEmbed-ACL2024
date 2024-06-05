@@ -1,8 +1,6 @@
 # LLMEmbed: Rethinking Lightweight LLM's Genuine Function in Text Classification
-This code is for the SDIM paper early accessed in the IEEE Transactions on Dependable and Secure Computing (TDSC-2023)
-*DOI: 10.1109/TDSC.2023.3333256*
-
-The rough draft is *An Efficient Matrix Multiplication with Enhanced Privacy Protection in Cloud Computing and Its Applications*
+This code is for the SDIM paper accepted in the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)
+*DOI: *
 
 ## Paper_Exp.zip
 This code is for the Privacy-Preserving Outsourcing MMC.
